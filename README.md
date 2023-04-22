@@ -1,8 +1,14 @@
-# flow-manager
+# Flow Manager
 A simple flow manager for internal projects.
 
 ## To start:
-### Landing page(Web client + User microservice):
+### Landing page (Web client + User microservice):
+
+Open terminal and run:
 ```
-make start-web-user-micro-service
+make start-web
+```
+Open another terminal and run:
+```
+make start-user-micro-service
 ```
