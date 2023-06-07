@@ -2,13 +2,12 @@
 A simple flow manager for internal projects.
 
 ## To start:
-### Landing page (Web client + User microservice):
 
-Open terminal and run:
+### To run web flow:
 ```
-make start-web
+start-full-web-flow
 ```
-Open another terminal and run:
+### To run mobile flow:
 ```
-make start-user-micro-service
+make start-full-mobile-flow
 ```
